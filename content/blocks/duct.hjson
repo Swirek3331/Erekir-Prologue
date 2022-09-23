@@ -10,7 +10,7 @@ research: {
   ]
 }
 requirements: [
-  beryllium/408
+  beryllium/1
 ]
 category: distribution
 research: core-bastion
