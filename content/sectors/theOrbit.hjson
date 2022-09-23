@@ -3,7 +3,7 @@ planet: orbit
 alwaysUnlocked: true
 research: {
   parent: core-bastion
-  }
+}
 difficulty: 10
 captureWave: 100
 enemyBase: true

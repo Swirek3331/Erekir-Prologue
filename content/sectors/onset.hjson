@@ -4,12 +4,12 @@ addStartingItems: true
 research: {
   parent: theOrbit
   objectives: [
-      {
-        type: SectorComplete
-        preset: theOrbit
-      }
-    ]
-  }
+    {
+      type: SectorComplete
+      preset: theOrbit
+    }
+  ]
+}
 difficulty: 1
 enemyBase: true
 localizedName: The Onset
